@@ -1,0 +1,11 @@
+The data should be personalized according to the specific purpose of the project:
+
+Nom, Matricule, Heure_Arrivée, Statut 
+
+Example:
+
+Nom,Date,Heure,Classe
+Jean Dupont,2023-11-21,08:32:15,L3-Informatique
+
+Nom,Arrivée,Départ,Durée
+Jean Dupont,08:30:00,11:45:00,3h15

@@ -1,0 +1,10 @@
+This project uses a K-Nearest Neighbors (KNN)-based model for face recognition.
+
+The model compares new facial encodings with a labeled dataset to identify individuals.
+It is trained using encodings extracted from face images and saved as a .clf file using pickle.
+
+- Algorithm: KNN (K = 2)
+- Libraries: face_recognition, scikit-learn
+- Input: Facial image -> face encoding
+- Output: Predicted identity
+- Requires clean and labeled training data
